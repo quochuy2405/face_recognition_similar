@@ -1,0 +1,6 @@
+
+shutil
+face_recognition
+imutils
+dlib
+opencv-python
